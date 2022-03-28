@@ -20,7 +20,7 @@ background-size: 20px 40px;
 position: relative;
 top:  110px;
 left: 580px;
-animation: cactusMov 0.5s infinite linear;
+animation: cactusMov 0.9s infinite linear;
  }
 @keyframes cactusMov{
  0%{ left: 580px;
